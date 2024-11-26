@@ -9,8 +9,3 @@ Por ahora solo se encuentra el .java de NumerosAleatorios
 - **src/**: Carpeta principal donde se encuentran los archivos `.java`.
 - **bin/**: Carpeta que contiene los archivos `.class` generados por el compilador (excluidos del repositorio mediante `.gitignore`).
 
-## Uso del proyecto
-
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/Act3GIT_Tunombre.git
