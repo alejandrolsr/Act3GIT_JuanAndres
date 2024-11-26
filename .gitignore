@@ -1,0 +1,16 @@
+Este archivo asegurará que los archivos `.class` y otros que no deben estar en el repositorio sean ignorados.
+
+Contenido sugerido para el archivo `.gitignore`:
+
+```gitignore
+# Ignorar archivos de compilación
+*.class
+
+# Ignorar carpetas comunes en proyectos Java
+bin/
+out/
+
+# Ignorar archivos de configuración de IDE
+*.iml
+.idea/
+.vscode/
